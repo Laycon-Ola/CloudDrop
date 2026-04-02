@@ -122,3 +122,17 @@ app.py**
 ![](./media/media/image31.png)
 
 ![](./media/media/image32.png)
+
+CONCEPTS LEARNED
+Remote server ssh
+Virtual environment creation and activation
+Dependencies Installation
+Application Execution
+
+VULNERABILITIES
+Public instance app deployment
+App port number direct exposure
+Role creation with full access policy, attached to my instance
+
+BEST PRACTICES
+Best to store environment variables in the .env file
